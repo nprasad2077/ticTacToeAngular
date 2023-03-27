@@ -1,1 +1,1 @@
-# ticTacToeAngular
+# Tic-Tac-Toe Angular Project.
